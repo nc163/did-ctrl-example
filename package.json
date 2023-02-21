@@ -1,0 +1,21 @@
+{
+  "name": "did-ctrl-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nc163 (https://twitter.com/nc163)",
+  "license": "ISC",
+  "dependencies": {
+    "@blockcerts/cert-verifier-js": "^6.5.1",
+    "did-resolver": "^4.0.1",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.0.5",
+    "ethr-did": "^2.3.6",
+    "ethr-did-registry": "^1.1.0",
+    "ethr-did-resolver": "^8.0.0"
+  }
+}
